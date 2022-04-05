@@ -2,7 +2,7 @@ const Jogos = [
     {
         id : "01",
         nome : "Subway Surfers",
-        valor : 13.32,
+        valor : "R$13,32",
         imagem : 'subway.jpg'
     },
     {
@@ -25,10 +25,35 @@ const Jogos = [
     },
     {
         id : "05",
-        nome : "Dragon Ball Fight",
+        nome : "Dragon Ball Kakarot",
         valor : 'R$18,00',
-        imagem : 'dbz.jpg'
+        imagem : 'dbz.jpg',
     },
+    {
+        id : "06",
+        nome : "Zombie Tsunami",
+        valor : "Gratuito",
+        imagem : 'zombie.jpg',
+    },
+    {
+        id : "07",
+        nome : "Pac-Man",
+        valor : "R$2,99",
+        imagem : 'pacman.jpg',
+    },
+    {
+        id : "08",
+        nome : "Splatoon",
+        valor : "R$0,99",
+        imagem : 'CapaSplatoon.jpg',
+    },
+    {
+        id : "07",
+        nome : "Mario Party Superstars",
+        valor : "Gratuito",
+        imagem : 'mario.jpg',
+    },
+        
     
 ]
 
